@@ -32,7 +32,7 @@ Open the notebook in Google Colab
 
 Download the dataset from Kaggle
 
-Upload the data.txt file when prompted
+Upload the train_snli.txt file when prompted
 
 Run each cell in the notebook sequentially
 
